@@ -3,7 +3,7 @@
 Dahsboard ini dibuat untuk memberikan wawasan bisnis seiring meningkatnya permintaan dan persaingan yang ketat di pasar. Dengan memahami produk, wilayah, kategori, dan segmen pelanggan mana yang harus mereka targetkan atau hindari dapat membuat Raksasa Superstore tetap bertahan dan menjadi Superstore terbaik
 
 ## Data Sources
-Data di dapat dari Tableau Website [Download disini](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+Data di dapat dari Tableau Website
 
 ## Insight
 1. Berdasarkan Peta negara di antara semua negara bagian, California, New York, dan Texas mencatat pembelian terbesar. Mayoritas pembelian berasal dari wilayah Timur dan Barat. Perusahaan harus lebih fokus pada peningkatan profit secara keseluruhan. Perusahaan dapat memberikan diskon lebih banyak ke negara bagian dengan pembelian rendah.
